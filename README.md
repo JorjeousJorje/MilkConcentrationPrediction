@@ -5,5 +5,5 @@ The model was designed and trained by NSU student Georgy Bakharev.
 
 The model was designed using Pytorch framework.
 
-Actual model can be found in ConvRegressor.py file.
+Actual model can be found in "ConvRegressor.py" file.
 The model, presented in the article, can be found in "trained models" directory.
