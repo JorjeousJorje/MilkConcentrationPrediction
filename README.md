@@ -5,4 +5,4 @@ The model was designed and trained by NSU student Georgy Bakharev.
 
 
 Actual model can be found in ConvRegressor.py file.
-The model, presented in the article, can be found in "trained models" directory
+The model, presented in the article, can be found in "trained models" directory.
